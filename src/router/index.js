@@ -13,6 +13,11 @@ const router = createRouter({
       path: '/FrontView',
       name: 'FrontView',
       component: () => import('../views/FrontView.vue')
+    },
+    {
+      path: '/BackView',
+      name: 'BackView',
+      component: () => import('../views/BackView.vue')
     }
   ]
 })
