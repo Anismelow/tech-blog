@@ -20,7 +20,7 @@ import { RouterLink, RouterView } from 'vue-router'
        
         </li>
         <li class="nav-item me-5">
-         <RouterLink to="/" class="text-decoration-none text-black">Back-end</RouterLink>
+         <RouterLink to="/BackendView" class="text-decoration-none text-black">Back-end</RouterLink>
 
         </li>
         <li class="nav-item me-5">
