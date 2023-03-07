@@ -10,7 +10,7 @@ import Carrrousel from '../components/CarrouselComponent.vue'
    <NavBar class="mb-5"/>
     <Carrrousel class="mb-5 "/>
 
-    <div class="d-flex">
+    <div class="d-flex justify-content-around">
     <Card class="mb-5"/>
     <Card class="mb-5"/>
     <Card class="mb-5"/>
