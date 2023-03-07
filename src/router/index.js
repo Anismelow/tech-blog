@@ -18,6 +18,11 @@ const router = createRouter({
       path: '/BackView',
       name: 'BackView',
       component: () => import('../views/BackView.vue')
+    },
+    {
+      path: '/DevopsView',
+      name: 'DevopsView',
+      component: () => import('../views/DevopsView.vue')
     }
   ]
 })

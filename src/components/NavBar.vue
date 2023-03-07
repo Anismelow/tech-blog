@@ -24,7 +24,7 @@ import { RouterLink, RouterView } from 'vue-router'
 
         </li>
         <li class="nav-item me-5">
-         <RouterLink to="/" class="text-decoration-none text-black">DevOps</RouterLink>
+         <RouterLink to="/DevopsView" class="text-decoration-none text-black">DevOps</RouterLink>
         </li>
         <li class="nav-item me-5">
          <RouterLink to="/" class="text-decoration-none text-black">Inteligecia Artificial</RouterLink>
