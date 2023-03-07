@@ -8,17 +8,18 @@ export default {
     // NavBarVue,
   },
   setup() {
-    // creamos las variables
+    // creamos las variables para front yorlin
     let titulo = "";
     let descripcion = "";
     let enlace = "";
     let imagen = "";
-    // Retornamos para poderlas usar
+    // Retornamos para poderlas usar front yorlin
     return {
       titulo,
       descripcion,
       enlace,
       imagen,
+    // termina yorlin  
     };
   },
 };
