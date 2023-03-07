@@ -4,16 +4,16 @@
     <div id="carouselExample" class="carousel slide">
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="../assets/img/frond.webp" class="d-block w-100 h-100" alt="...">
+                <img src="../assets/img/imagen-slider-1.png" class="d-block w-100 h-100" alt="...">
             </div>
             <div class="carousel-item">
-                <img src="../assets/img/back.jpg" class="d-block w-100 h-100" alt="...">
+                <img src="../assets/img/imagen-slider-2.png" class="d-block w-100 h-100" alt="...">
             </div>
             <div class="carousel-item">
-                <img src="../assets/img/logodevops.png" class="d-block w-100 h-100" alt="...">
+                <img src="../assets/img/imagen-slider-3.png" class="d-block w-100 h-100" alt="...">
             </div>
             <div class="carousel-item">
-                <img src="../assets/img/it.jpg" class="d-block w-100 h-100" alt="...">
+                <img src="../assets/img/imagen-slider-4.png" class="d-block w-100 h-100" alt="...">
             </div>
         </div>
         <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
