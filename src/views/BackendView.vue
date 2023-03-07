@@ -6,6 +6,7 @@ import Slider from '../components/SliderlLucas.vue'
 
 <template>
     <NavBar/>
+    <Slider/>
     <Footer/>
-    <SliderLucas/>
+    
 </template>
