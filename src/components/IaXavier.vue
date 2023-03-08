@@ -1,8 +1,10 @@
 <script setup>
+//  importar componentes tarjetas de yorlin en este componente
     import CardYorlin from './CardYorlin.vue';
 </script>
 
 <template>
+    <!-- Implementamos una estructura normal de HTML -->
     <div class="imagenIA"></div>
     <div class="contenidoIa">
         <h1>Todo sobre la IA</h1>
@@ -14,6 +16,8 @@
             <li>Superinteligencia. Sería una IA que superaría a la inteligencia humana, alcanzando en ese momento lo que se conoce como la singularidad. Por definición, al ser una inteligencia superior a la nuestra, no la comprendemos.</li>
         </ul>
     </div>
+
+    <!-- Vamos a crear cada CARDS con sus respectivas PROPS -->
     <div class="cards">
     <!-- : indica que es una variable / se lo he quitado-->
     <!-- : Ingresamos los props directamente en el elemento-->
