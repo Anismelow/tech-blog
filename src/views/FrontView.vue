@@ -1,7 +1,6 @@
 <script setup>
 import NavBar from '../components/NavBar.vue'
 import Footer from '../components/FooterComponent.vue'
-import Card from '../components/CardComponent.vue'
 import Carrrousel from '../components/CarrouselComponent.vue'
 import CardYorlin from '../components/CardYorlin.vue'
 
