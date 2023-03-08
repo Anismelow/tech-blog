@@ -23,7 +23,13 @@ const router = createRouter({
       path: '/DevopsView',
       name: 'DevopsView',
       component: () => import('../views/DevopsView.vue')
+    },
+    {
+      path: '/InteligenciaView',
+      name: 'InteligenciaView',
+      component: () => import('../views/InteligenciaView.vue')
     }
+
   ]
 })
 
