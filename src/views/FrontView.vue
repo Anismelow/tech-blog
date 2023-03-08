@@ -1,9 +1,10 @@
 <script setup>
 import NavBar from '../components/NavBar.vue'
 import Footer from '../components/FooterComponent.vue'
-import Card from '../components/CardComponent.vue'
+// import Card from '../components/CardComponent.vue'
 import Carrrousel from '../components/CarrouselComponent.vue'
 import CardYorlin from '../components/CardYorlin.vue'
+import ListaCursosYorlin from '../components/ListaCursosYorlin.vue'
 
 </script>
 
@@ -19,13 +20,18 @@ import CardYorlin from '../components/CardYorlin.vue'
     <CardYorlin titulo="Front-Responsive Design vs Adaptative Design ¿ Cuál es Mejor ?" descripcion="descripcion frontend 3" enlace="https://blog.nubecolectiva.com/responsive-design-vs-adaptative-design-cual-es-mejor/" imagen="/src/img/imagen-3.png"/>
   </div>
 
+  <h2>Cursos Importantes</h2>
+  <div class="cards">
+    <lista-cursos-yorlin />
+  </div>
+
     <Carrrousel class="mb-5 "/>
 
 
     <Footer class="mb-5"/>
 </template>
 <style>
-h1{
+h1,h2{
     text-align: center;
     margin: 2rem auto;
 }

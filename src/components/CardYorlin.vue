@@ -1,6 +1,7 @@
 <template>
     <div class="card" style="width: 18rem">
       <!-- <img src="@/img/imagen-1.jpg" class="card-img-top" alt="..." /> -->
+      <!-- uso directiva v-bind:   = :    para modificar un atributo -->
       <img :src="imagen" class="card-img-top" alt="..." />
       <div class="card-body">
         <h5 class="card-title">{{ titulo }}</h5>
