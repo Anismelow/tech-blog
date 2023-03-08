@@ -22,17 +22,14 @@ import Carrrousel from "../components/CarrouselComponent.vue";
     <CardYorlin
       titulo="VMware y AWS anuncian nuevo servicio de nube híbrida"
       descripcion="VMware Cloud sobre AWS, es una nueva oferta que hará más fácil la ejecución de aplicaciones de los clientes en un entorno híbrido y con herramientas comunes
-
-VMware y Amazon Web Services (AWS) anunciaron una alianza estratégica para construir y entregar una oferta de nube híbrida e integrada que dará a sus clientes una experiencia única y completa de herramientas de TI basadas en la nube."
+VMware y Amazon Web Services (AWS) anunciaron una alianza."
       enlace="https://www.siliconweek.com/cloud/vmware-y-aws-anuncian-nuevo-servicio-de-nube-hibrida-71730"
       imagen="src/assets/img/Nube-684x513.jpg"
     />
 
     <CardYorlin
       titulo="Front-Responsive Design vs Adaptative Design ¿ Cuál es Mejor ?"
-      descripcion="descripcion frontend 3Red Hat adquiere compañía que facilita desarrollo de apps basadas en contenedoresCodenvy será adquirida por Red Hat una vez que las instacias reguladoras lo aprueben, covirtiendose en prioridad dentro de la estrategia Openshift.io.
-
-La compañía de soluciones de código abierto, Red Hat informó la adquisición de Codenvy, empresa centrada en herramientas nativas en nube para el desarrollo de apps de nueva generación basadas en contenedores."
+      descripcion="descripcion frontend 3Red Hat adquiere compañía que facilita desarrollo de apps basadas en contenedoresCodenvy será adquirida por Red Hat una vez que las instacias reguladoras lo aprueben, covirtiendose en prioridad dentro de la estrategia Openshift.io."
       enlace="https://https://www.siliconweek.com/cloud/red-hat-adquiere-compania-que-facilita-desarrollo-de-apps-basadas-en-contenedores-82856blog.nubecolectiva.com/responsive-design-vs-adaptative-design-cual-es-mejor/"
       imagen="src/assets/img/2017-05-31-684x505.png"
     />
