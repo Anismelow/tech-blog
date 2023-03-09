@@ -5,12 +5,14 @@ import { RouterLink, RouterView } from 'vue-router'
 
 <template>
     <nav class="navbar navbar-expand-lg ">
-  <div class="container-fluid">
-    <a class="navbar-brand me-5 text-decoration-none" href="#">TECH - NEW </a>
+  <div class="container-fluid ">
+    <a class="navbar-brand me-5 text-decoration-none" href="#">
+      <RouterLink to="/" class="text-decoration-none text-black">MUNDO TECH</RouterLink>
+    </a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
-    <div class="collapse navbar-collapse" id="navbarNav">
+    <div class="collapse navbar-collapse d-flex justify-content-end" id="navbarNav">
       <ul class="navbar-nav">
         <li class="nav-item me-5">
          <RouterLink to="/" class="text-decoration-none text-black">Home</RouterLink>

@@ -28,7 +28,7 @@
 </template>
    
 
-<style>
+<style scoped>
 
 .imagenIA{
     width: 100%;
