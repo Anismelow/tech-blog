@@ -4,13 +4,13 @@
     <div id="carouselExample" class="carousel slide">
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="../assets/img/imagen-slider-1.png" class="d-block w-100 h-100" alt="...">
+                <img src="../assets/img/imagen-slider-3.png" class="d-block w-100 h-100" alt="...">
             </div>
             <div class="carousel-item">
                 <img src="../assets/img/imagen-slider-2.png" class="d-block w-100 h-100" alt="...">
             </div>
             <div class="carousel-item">
-                <img src="../assets/img/imagen-slider-3.png" class="d-block w-100 h-100" alt="...">
+                <img src="../assets/img/imagen-slider-1.png" class="d-block w-100 h-100" alt="...">
             </div>
             <div class="carousel-item">
                 <img src="../assets/img/imagen-slider-4.png" class="d-block w-100 h-100" alt="...">
